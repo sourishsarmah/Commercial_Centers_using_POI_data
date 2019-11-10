@@ -21,7 +21,7 @@ Create clusters of distinct commercial centers or markets using points of intere
 
 ## RUN:
 
-- [Commercial_Clusters_using_POI.ipynb]('Commercial_Clusters_using_POI.ipynb')
+- [Commercial_Clusters_using_POI.ipynb](Commercial_Clusters_using_POI.ipynb)
 
 ## Methodolgy:
 
